@@ -1,0 +1,12 @@
+{
+  "1-shot": {
+    "mean_percent": 44.9111,
+    "ci95_percent": 0.7449,
+    "episodes": 600
+  },
+  "5-shot": {
+    "mean_percent": 59.7533,
+    "ci95_percent": 0.693,
+    "episodes": 600
+  }
+}
